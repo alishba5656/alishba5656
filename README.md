@@ -22,7 +22,8 @@
 ### 🎯 TalentScan AI
 > AI-powered talent scanning and analysis platform built with JavaScript & modern AI tools.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alishba5656&repo=talentscan-ai-main&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc)](https://github.com/alishba5656/talentscan-ai-main)
+[![Readme Card](<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/90110f30-f6a5-4895-9d92-aac37933c43e" />
+ https://github-readme-stats.vercel.app/api/pin/?username=alishba5656&repo=talentscan-ai-main&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc)](https://github.com/alishba5656/talentscan-ai-main)
 
 | Layer | Technology |
 |-------|-----------|
