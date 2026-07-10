@@ -6,11 +6,12 @@
 
 <br/>
 
-![Open to Work]
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-%E2%9C%85%20Available-7dd3fc?style=for-the-badge&logo=briefcase&logoColor=white)
+
 <br/>
 
-![Profile Views]
-![GitHub followers]
+![Profile Views](https://komarev.com/ghpvc/?username=alishba5656&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/alishba5656?color=7dd3fc&style=for-the-badge&logo=github&label=FOLLOWERS)
 
 </div>
 
