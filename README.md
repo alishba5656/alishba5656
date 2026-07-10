@@ -1,43 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Alishba%20Khan&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Python%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7dd3fc&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Building+Intelligent+Systems+%F0%9F%A7%A0;LangChain+%7C+OpenAI+%7C+Python+%F0%9F%90%8D;Sign+Language+%7C+NLP+%7C+Deep+Learning+%F0%9F%94%AC;Open+to+Work+%E2%80%94+Let%27s+Connect!+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a1628&height=200&section=header&text=Alishba%20Khan&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Python%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
 
 <br/>
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-%E2%9C%85%20Available-7dd3fc?style=for-the-badge&logo=briefcase&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7ea8d4&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Building+Intelligent+Systems+%F0%9F%A7%A0;LangChain+%7C+OpenAI+%7C+Python+%F0%9F%90%8D;Sign+Language+%7C+NLP+%7C+Deep+Learning+%F0%9F%94%AC;Open+to+Work+%E2%80%94+Let%27s+Connect!+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=alishba5656&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/alishba5656?color=7dd3fc&style=for-the-badge&logo=github&label=FOLLOWERS)
+<img src="https://img.shields.io/badge/Open%20to%20Work-%E2%9C%85%20Available-ffffff?style=for-the-badge&labelColor=1a2f4a&color=1a2f4a&logo=briefcase&logoColor=white" alt="Open to Work"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=alishba5656&color=1a2f4a&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/alishba5656?color=1a2f4a&style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers"/>
 
 </div>
-
----
-
-## 🧠 Who I Am
-
-```typescript
-const alishba: Developer = {
-  title:            "AI/ML Engineer",
-  stack: {
-    languages:      ["Python", "JavaScript", "Java", "C++", "HTML"],
-    ai_ml:          ["TensorFlow", "PyTorch", "Scikit-learn", "OpenAI", "LangChain"],
-    backend:        ["FastAPI", "REST APIs"],
-    devops:         ["Docker", "Git", "GitHub"],
-  },
-  launchedProjects: [
-    "TalentScan AI  — AI-powered talent scanning platform",
-    "Sign Language Project — Real-time sign language recognition using deep learning",
-  ],
-  status:           "🟢 Open to Work — AI/ML roles",
-  openTo:           ["Full-time", "Freelance", "Research Collaboration"],
-  portfolio:        "https://alishbakhan-portfolio.netlify.app/",
-  contact:          "alishbakhaan2856@gmail.com",
-};
-```
 
 ---
 
@@ -46,7 +25,7 @@ const alishba: Developer = {
 ### 🎯 TalentScan AI
 > AI-powered talent scanning and analysis platform built with JavaScript & modern AI tools.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alishba5656&repo=talentscan-ai-main&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc)](https://github.com/alishba5656/talentscan-ai-main)
+[![talentscan-ai-main](https://github-readme-stats.vercel.app/api/pin/?username=alishba5656&repo=talentscan-ai-main&theme=tokyonight&border_color=1a3a5c&title_color=7ea8d4&icon_color=7ea8d4&bg_color=0a1628&text_color=c9d1d9)](https://github.com/alishba5656/talentscan-ai-main)
 
 | Layer | Technology |
 |-------|-----------|
@@ -54,14 +33,14 @@ const alishba: Developer = {
 | AI Integration | OpenAI, LangChain |
 | DevOps | Docker, GitHub |
 
-[![Code](https://img.shields.io/badge/View%20Code-7dd3fc?style=for-the-badge&logo=github&logoColor=black)](https://github.com/alishba5656/talentscan-ai-main)
+[![View Code](https://img.shields.io/badge/View%20Code-%20GitHub-1a2f4a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alishba5656/talentscan-ai-main)
 
 ---
 
 ### 🤟 Sign Language Project
 > Real-time sign language recognition system using deep learning and computer vision — bridging communication gaps with AI.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alishba5656&repo=SignLanguageProject&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc)](https://github.com/alishba5656/SignLanguageProject)
+[![SignLanguageProject](https://github-readme-stats.vercel.app/api/pin/?username=alishba5656&repo=SignLanguageProject&theme=tokyonight&border_color=1a3a5c&title_color=7ea8d4&icon_color=7ea8d4&bg_color=0a1628&text_color=c9d1d9)](https://github.com/alishba5656/SignLanguageProject)
 
 | Layer | Technology |
 |-------|-----------|
@@ -69,7 +48,7 @@ const alishba: Developer = {
 | ML/DL | TensorFlow / PyTorch, OpenCV |
 | Tools | Scikit-learn, Jupyter |
 
-[![Code](https://img.shields.io/badge/View%20Code-7dd3fc?style=for-the-badge&logo=github&logoColor=black)](https://github.com/alishba5656/SignLanguageProject)
+[![View Code](https://img.shields.io/badge/View%20Code-%20GitHub-1a2f4a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alishba5656/SignLanguageProject)
 
 ---
 
@@ -83,7 +62,7 @@ const alishba: Developer = {
 
 **AI / ML & Data**
 
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark)](https://skillicons.dev)
 
 **Frameworks & Backend**
 
@@ -91,7 +70,7 @@ const alishba: Developer = {
 
 **DevOps & Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=docker,git,github,vscode,jupyter&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -101,15 +80,16 @@ const alishba: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alishba5656&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=ffffff&hide_border=false" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=alishba5656&show_icons=true&theme=tokyonight&border_color=1a3a5c&title_color=7ea8d4&icon_color=7ea8d4&text_color=c9d1d9&bg_color=0a1628" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishba5656&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff&hide_border=false" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishba5656&layout=compact&theme=tokyonight&border_color=1a3a5c&title_color=7ea8d4&text_color=c9d1d9&bg_color=0a1628" height="180"/>
 
 </div>
 
 <div align="center">
+<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=alishba5656&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=alishba5656&theme=tokyonight&border=1a3a5c&ring=7ea8d4&fire=7ea8d4&currStreakLabel=7ea8d4&background=0a1628&sideLabels=c9d1d9&dates=c9d1d9)](https://git.io/streak-stats)
 
 </div>
 
@@ -119,7 +99,7 @@ const alishba: Developer = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alishba5656&theme=nord&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=alishba5656&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -129,7 +109,7 @@ const alishba: Developer = {
 
 <div align="center">
 
-[![Alishba's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alishba5656&theme=nord&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Alishba's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alishba5656&theme=tokyo-night&color=7ea8d4&line=7ea8d4&point=ffffff&area=true&area_color=1a2f4a&bg_color=0a1628&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -139,9 +119,9 @@ const alishba: Developer = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-alishba--khan-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alishba-khan-332404407/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-alishbakhan-7dd3fc?style=for-the-badge&logo=netlify&logoColor=white)](https://alishbakhan-portfolio.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-alishbakhaan2856@gmail.com-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alishbakhaan2856@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alishba--khan-1a2f4a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alishba-khan-332404407/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-alishbakhan-1a2f4a?style=for-the-badge&logo=netlify&logoColor=white)](https://alishbakhan-portfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-alishbakhaan2856-1a2f4a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alishbakhaan2856@gmail.com)
 
 </div>
 
@@ -149,6 +129,6 @@ const alishba: Developer = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a1628&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
