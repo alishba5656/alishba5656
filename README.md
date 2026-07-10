@@ -6,7 +6,7 @@
 
 <br/>
 
-![Open to Work](Available-7dd3fc?style=for-the-badge&logo=briefcase&logoColor=white)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-%E2%9C%85%20Available-7dd3fc?style=for-the-badge&logo=briefcase&logoColor=white)
 
 <br/>
 
