@@ -38,7 +38,8 @@
 ### 🤟 Sign Language Project
 > Real-time sign language recognition system using deep learning and computer vision — bridging communication gaps with AI.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alishba5656&repo=SignLanguageProject&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc)](https://github.com/alishba5656/SignLanguageProject)
+[![Readme Card](<img width="631" height="469" alt="image" src="https://github.com/user-attachments/assets/6eddc1ba-fa01-4f1c-841d-4060e0a5711e" />
+ https://github-readme-stats.vercel.app/api/pin/?username=alishba5656&repo=SignLanguageProject&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc)](https://github.com/alishba5656/SignLanguageProject)
 
 | Layer | Technology |
 |-------|-----------|
